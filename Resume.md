@@ -26,12 +26,12 @@ Software Engineer *(2012-2016)*
 #### Xiamen Starlight Ltd.
 &emsp;**Time:** 2016.8-2016.10</br>
 &emsp;**Position:** Software Engineer</br>
-&emsp;**Tasks:** ASP .NET development for the inventory management system, including bussiness logic, back end development and web page design.
+&emsp;**Tasks:** ASP .NET development for the inventory management system, including business logic, back end development and web page design.
 
 #### Shanghai Shine Ltd.
 &emsp;**Time:** 2017.3-2017.6</br>
 &emsp;**Position:** Java Development</br>
-&emsp;**Tasks:** Back end development including bussness logic for a public transport map application on Andriod devices.
+&emsp;**Tasks:** Back end development including business logic for a public transport map application on Andriod devices.
 
 #### Shanghai Pekon Ltd.
 &emsp;**Time:** 2017.12-2018.2</br>
