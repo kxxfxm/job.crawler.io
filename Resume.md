@@ -17,7 +17,7 @@ Mobile: (CHN)+86 15921202928 / (AU)+61 450645592
 - Familiar with graph theory
 
 #### Xiamen University
-Software Engineer *(2012-2016)*
+&emsp;Software Engineer *(2012-2016)*
 - Studied C, C++, C# and Java
 - Famaliar with MVC modeling, have some experience of Web development using .NET MVC and SpringMVC.
 - Familiar with HTML/CSS front end development, using Bootstrap and JavaScript.
